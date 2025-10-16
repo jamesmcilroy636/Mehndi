@@ -35,7 +35,7 @@ body {
     object-fit:cover;
     margin-bottom: 5px;
     border: 2px solid rgb(39, 136, 0);
-    box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+    box-shadow: 0 0 10px rgba(rgb(92, 88, 88), rgb(133, 252, 133), rgb(11, 11, 204), alpha);
     transition: transform 0.3s ease;
 }
 
